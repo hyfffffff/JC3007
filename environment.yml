@@ -1,0 +1,11 @@
+name: JC3007
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.8
+  - pandas
+  - numpy
+  - matplotlib
+  - statsmodels
+  - basemap
