@@ -8,7 +8,7 @@ This project analyzes and visualizes temperature trends across China at meteorol
 - `map_station.py`: Visualizes temperature trends at meteorological stations on a map of China.
 - `map_province.py`: Displays temperature trends across provinces using a color-coded map.
 - `citymaster.csv`: Maps meteorological stations to geographic information.
-- `provincemaster.csv`: Maps provinces to their respective meteorological stations.
+- `provincemaster.csv`: This file provides a list of provinces and administrative regions in China, detailing their administrative codes (ADCODE), Chinese names, and English translations. 
 - `Chinadata/`: Directory for raw weather data files.
 - `Chinamap/`: Contains shapefiles for China's geographical boundaries.
 - `environment.yml`: Conda environment configuration file.
