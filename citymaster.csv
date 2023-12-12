@@ -1,0 +1,179 @@
+    City,Chinese name, Province, Region
+    Chengdu, 成都, Sichuan, Southwest China
+    Turpan, 吐鲁番, Xinjiang, Northwest China
+    Leting, 乐亭, Hebei, North China
+    Shanghai Hongqiao, 上海虹桥, Shanghai, East China
+    Tuotuohe, 沱沱河, Qinghai, Northwest China
+    Lhasa, 拉萨, Tibet, Southwest China
+    Yinchuan, 银川, Ningxia, Northwest China
+    Hangzhou, 杭州, Zhejiang, East China
+    Xiamen, 厦门, Fujian, East China
+    Minqin, 民勤, Gansu, Northwest China
+    Zhengzhou, 郑州, Henan, Central China
+    Abag Qi, 阿巴嘎旗, Inner Mongolia, North China
+    Taiyuan, 太原, Shanxi, North China
+    Fuyun, 富蕴, Xinjiang, Northwest China
+    Hotan, 和田, Xinjiang, Northwest China
+    Boxian, 亳县, Anhui, East China
+    Da Qaidam, 大柴旦, Qinghai, Northwest China
+    Yulin, 玉林, Guangxi, South China
+    Hanzhong, 汉中, Shaanxi, Northwest China
+    Nagqu, 那曲, Tibet, Southwest China
+    Lindong, 临东, Inner Mongolia, North China
+    Haliut, 哈力图, Inner Mongolia, North China
+    Ejin Qi, 额济纳旗, Inner Mongolia, North China
+    Madoi, 玛多, Qinghai, Northwest China
+    Nanjing, 南京, Jiangsu, East China
+    Golmud, 格尔木, Qinghai, Northwest China
+    Weifang, 潍坊, Shandong, East China
+    Shantou, 汕头, Guangdong, South China
+    Kashi, 喀什, Xinjiang, Northwest China
+    Wu Lu Mu Qi, 乌鲁木齐, Xinjiang, Northwest China
+    Nanchang, 南昌, Jiangxi, East China
+    Uliastai, 乌兰察布, Inner Mongolia, North China
+    Dunhuang, 敦煌, Gansu, Northwest China
+    Yining, 伊宁, Xinjiang, Northwest China
+    Xuzhou, 徐州, Jiangsu, East China
+    Tongliao, 通辽, Inner Mongolia, North China
+    Xinyang, 信阳, Henan, Central China
+    Arxan, 阿尔山, Inner Mongolia, North China
+    Gangca, 刚察, Qinghai, Northwest China
+    Garze, 甘孜, Sichuan, Southwest China
+    Hails, 海拉尔, Inner Mongolia, North China
+    Simao, 思茅, Yunnan, Southwest China
+    Jian, 吉安, Jiangxi, East China
+    Duolun, 多伦, Inner Mongolia, North China
+    Jiuquan, 酒泉, Gansu, Northwest China
+    Lijing, 丽江, Yunnan, Southwest China
+    Wuhan, 武汉, Hubei, Central China
+    Jinzhou, 锦州, Liaoning, Northeast China
+    Pingliang, 平凉, Gansu, Northwest China
+    Tikanlik, 提坎里克, Xinjiang, Northwest China
+    Qu Xian, 曲县, Zhejiang, East China
+    Jarud Qi, 扎鲁特旗, Inner Mongolia, North China
+    Wudu, 武都, Gansu, Northwest China
+    Mazong Shan, 马鬃山, Gansu, Northwest China
+    Qingdao, 青岛, Shandong, East China
+    Guangzhou, 广州, Guangdong, South China
+    Xilin Hot, 锡林浩特, Inner Mongolia, North China
+    Nenjiang, 嫩江, Heilongjiang, Northeast China
+    Huoshan, 霍山, Anhui, East China
+    Dinghai, 定海, Zhejiang, East China
+    Yongan, 永安, Fujian, East China
+    Ganyu, 赣榆, Jiangsu, East China
+    Hefei, 合肥, Anhui, East China
+    Nanping, 南平, Fujian, East China
+    Harbin, 哈尔滨, Heilongjiang, Northeast China
+    Lingling, 零陵, Hunan, Central China
+    Yanchi, 盐池, Ningxia, Northwest China
+    Lenghu, 冷湖, Qinghai, Northwest China
+    Ganzhou, 赣州, Jiangxi, East China
+    Shache, 莎车, Xinjiang, Northwest China
+    Guilin, 桂林, Guangxi, South China
+    Dalian, 大连, Liaoning, Northeast China
+    Hami, 哈密, Xinjiang, Northwest China
+    Enshi, 恩施, Hubei, Central China
+    Xigaze, 日喀则, Tibet, Southwest China
+    Xichang, 西昌, Sichuan, Southwest China
+    Zhangwu, 彰武, Liaoning, Northeast China
+    Tonghe, 通河, Heilongjiang, Northeast China
+    Mengzi, 蒙自, Yunnan, Southwest China
+    Otog Qi, 鄂托克旗, Inner Mongolia, North China
+    Guanghua, 光化, Henan, Central China
+    Heyuan, 河源, Guangdong, South China
+    Qinzhou, 钦州, Guangxi, South China
+    Bugt, 布尔津, Xinjiang, Northwest China
+    Chongqing, 重庆, Chongqing, Southwest China
+    Yushu, 玉树, Qinghai, Northwest China
+    Chengshantou, 城山头, Shandong, East China
+    Anqing, 安庆, Anhui, East China
+    Tulihe, 图里河, Inner Mongolia, North China
+    Beijing, 北京, Beijing, North China
+    Qian Gorlos, 前郭尔罗斯, Jilin, Northeast China
+    Kunming, 昆明, Yunnan, Southwest China
+    Xi'an, 西安, Shaanxi, Northwest China
+    Tengchong, 腾冲, Yunnan, Southwest China
+    Mudanjiang, 牡丹江, Heilongjiang, Northeast China
+    Hoboksar, 和布克赛尔, Xinjiang, Northwest China
+    Yibin, 宜宾, Sichuan, Southwest China
+    Jixi, 鸡西, Heilongjiang, Northeast China
+    Bachu, 巴楚, Xinjiang, Northwest China
+    Lincang, 临沧, Yunnan, Southwest China
+    Yangjiang, 阳江, Guangdong, South China
+    Hailun, 海伦, Heilongjiang, Northeast China
+    Huma, 呼玛, Heilongjiang, Northeast China
+    Karamay, 克拉玛依, Xinjiang, Northwest China
+    Fujin, 富锦, Heilongjiang, Northeast China
+    Yichang, 宜昌, Hubei, Central China
+    Korla, 库尔勒, Xinjiang, Northwest China
+    Ruoqiang, 若羌, Xinjiang, Northwest China
+    Chifeng, 赤峰, Inner Mongolia, North China
+    Hechi, 河池, Guangxi, South China
+    Shenyang, 沈阳, Liaoning, Northeast China
+    Shaoguan, 韶关, Guangdong, South China
+    Nanning, 南宁, Guangxi, South China
+    Chengde, 承德, Hebei, North China
+    Xining, 西宁, Qinghai, Northwest China
+    Youyang, 酉阳, Chongqing, Southwest China
+    Guiyang, 贵阳, Guizhou, Southwest China
+    Kuqa, 库车, Xinjiang, Northwest China
+    Sanya, 三亚, Hainan, South China
+    Xi Ujimqin Qi, 锡盟, Inner Mongolia, North China
+    Shanwei, 汕尾, Guangdong, South China
+    Yanji, 延吉, Jilin, Northeast China
+    Yuncheng, 运城, Shanxi, North China
+    Fuzhou, 福州, Fujian, East China
+    Xingren, 兴仁, Guizhou, Southwest China
+    Changchun, 长春, Jilin, Northeast China
+    Zhijiang, 枝江, Hubei, Central China
+    Barkam, 马尔康, Sichuan, Southwest China
+    Lushi, 卢氏, Henan, Central China
+    Hohhot, 呼和浩特, Inner Mongolia, North China
+    Qionghai, 琼海, Hainan, South China
+    Yingkou, 营口, Liaoning, Northeast China
+    Qamdo, 昌都, Tibet, Southwest China
+    Wuzhou, 梧州, Guangxi, South China
+    Qiqihar, 齐齐哈尔, Heilongjiang, Northeast China
+    Nanchong, 南充, Sichuan, Southwest China
+    Dengqen, 邓青, Tibet, Southwest China
+    Yan an, 延安, Shaanxi, Northwest China
+    Changde, 常德, Hunan, Central China
+    Guanghua, 光化, Henan, Central China
+    Heyuan, 河源, Guangdong, South China
+    Qinzhou, 钦州, Guangxi, South China
+    Bugt, 布尔津, Xinjiang, Northwest China
+    Chongqing, 重庆, Chongqing Municipality, Southwest China
+    Yushu, 玉树, Qinghai, Northwest China
+    Chengshantou, 城山头, Shandong, East China
+    Anqing, 安庆, Anhui, East China
+    Tulihe, 图里河, Inner Mongolia, North China
+    Beijing, 北京, Beijing Municipality, North China
+    Qian Gorlos, 前郭尔罗斯, Jilin, Northeast China
+    Kunming, 昆明, Yunnan, Southwest China
+    Xian, 西安, Shaanxi, Northwest China
+    Tengchong, 腾冲, Yunnan, Southwest China
+    Mudanjiang, 牡丹江, Heilongjiang, Northeast China
+    Hoboksar, 和布克赛尔, Xinjiang, Northwest China
+    Yibin, 宜宾, Sichuan, Southwest China
+    Jixi, 鸡西, Heilongjiang, Northeast China
+    Bachu, 巴楚, Xinjiang, Northwest China
+    Lincang, 临沧, Yunnan, Southwest China
+    Yangjiang, 阳江, Guangdong, South China
+    Hailun, 海伦, Heilongjiang, Northeast China
+    Huma, 呼玛, Heilongjiang, Northeast China
+    Karamay, 克拉玛依, Xinjiang, Northwest China
+    Fujin, 富锦, Heilongjiang, Northeast China
+    Yichang, 宜昌, Hubei, Central China
+    Korla, 库尔勒, Xinjiang, Northwest China
+    Ruoqiang, 若羌, Xinjiang, Northwest China
+    Chifeng, 赤峰, Inner Mongolia, North China
+    Hechi, 河池, Guangxi, South China
+    Shenyang, 沈阳, Liaoning, Northeast China
+    Shaoguan, 韶关, Guangdong, South China
+    Nanning, 南宁, Guangxi, South China
+    Chengde, 承德, Hebei, North China
+    Xining, 西宁, Qinghai, Northwest China
+    Youyang, 酉阳, Chongqing, Southwest China
+    Guiyang, 贵阳, Guizhou, Southwest China
+    Kuqa, 库车, Xinjiang, Northwest China
+    Sanya, 三亚, Hainan, South China
