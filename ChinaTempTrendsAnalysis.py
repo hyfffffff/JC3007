@@ -341,7 +341,7 @@ for city in cities:
 
 # Convert the results into a DataFrame and save to a CSV file for stations.
 results_df = pd.DataFrame(results, columns=['City', 'LATITUTE', 'LONGTITUE', 'ADCODE', 'Const Coefficient', 'Year Coefficient', 'P-Value', 'R-Squared'])
-results_df.to_csv('China_city_temperature_trends3.csv', index=False)    
+results_df.to_csv('China_station_temperature_trends3.csv', index=False)    
 
 # Analysis and results compilation for temperature trends across provinces.
 results = []
