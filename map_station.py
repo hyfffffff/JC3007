@@ -64,6 +64,6 @@ scatter = ax.scatter(gdf.geometry.x, gdf.geometry.y, c=gdf['Year Coefficient'], 
 plt.colorbar(scatter, shrink=0.6, label='Yearly Temperature Increase (°C/year)')
 
 plt.title('Annual Temperature Trends at Meteorological Stations Across China')
-plt.savefig('China_cities_temperature_trends.png', bbox_inches='tight', dpi=300)
+plt.savefig('China_stations_temperature_trends.png', bbox_inches='tight', dpi=300)
 plt.show()
 print(1)
