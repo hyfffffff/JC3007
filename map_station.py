@@ -31,7 +31,7 @@ import matplotlib.colors as mcolors
 from shapely.geometry import Point
 
 # Reload the CSV file
-file_path = 'China_city_temperature_trends3.csv'
+file_path = 'China_station_temperature_trends3.csv'
 city_data = pd.read_csv(file_path)
 
 # Load the shapefile
